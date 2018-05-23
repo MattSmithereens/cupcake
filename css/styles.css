@@ -1,0 +1,37 @@
+body {
+  font-family: sans-serif;
+}
+
+p.intro {
+  width: 50%;
+  font-style: italic;
+ }
+
+p.author {
+  width: 75%;
+  font-style: italic;
+  font-weight: bold;
+}
+
+.flashy {
+  color: red;
+  font-style: italic;
+}
+
+.best {
+
+  font-weight: bold;
+  color:yellow;
+}
+.footnote {
+ font-size: 14px;
+ font-style: bold;
+ color: maroon;
+}
+
+table {
+  background-color: #333333;
+  text-align: left;
+  padding: 2px;
+  color: white;
+}
